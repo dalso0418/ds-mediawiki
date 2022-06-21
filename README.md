@@ -1,2 +1,0 @@
-# ds-wordpress
-ds-wordpress 
